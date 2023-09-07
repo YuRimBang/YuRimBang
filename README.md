@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Shark)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Shark&text=)
+</div>
 ### Hi there 👋
 
 <!--
