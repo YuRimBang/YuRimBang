@@ -1,8 +1,12 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Shark&text=)
-</div>
-### Hi there 👋
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=HelloWorld&fontColor=F5A9A9&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  
+  </div>
 
 <!--
 **YuRimBang/YuRimBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
