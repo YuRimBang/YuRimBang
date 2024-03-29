@@ -3,10 +3,10 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=HelloWorld&fontColor=F5A9A9&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
+  ![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimBang&show_icons=true&theme=radical)
 
   </div>
 
-![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimBang&show_icons=true&theme=radical)
 <!--
 **YuRimBang/YuRimBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
