@@ -1,11 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<h1 align="center"> <b>YuRim Bang Git Hub</b></h1>
+<br>
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=YuRim's_GitHub&fontColor=F5A9A9&fontSize=70&animation=fadeIn&fontAlignY=55)
-  <br>
-    ![YurimBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuRimBang&show_icons=true&theme=radical)]
-    <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuRimBang&layout=compact)
+  <details>
+  <summary>About Me</summary>
+    Name : YuRim Bang <br>
+    Age : 23 (real age)
 
+    B.A. degree expected in Computer Software Engineering
+    Kumoh National Institute of Technology
+  </summary>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuRimBang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YuRimBang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  </a>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -36,11 +51,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?&style=for-the-badge&logo=mariaDB&logoColor=white)
 
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?&style=for-the-badge&logo=Anaconda&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white)
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+![AmazonAWS](https://img.shields.io/badge/amazonAWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?&style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 
@@ -81,20 +96,16 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white)
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?&style=for-the-badge&logo=Xcode&logoColor=white)
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)
-
-
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<img     src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-
 
 </div>
 
@@ -138,3 +149,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
