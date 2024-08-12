@@ -7,7 +7,7 @@
     Name : YuRim Bang <br>
     Age : 23 (real age)
 
-    B.A. degree expected in Computer Software Engineering
+    B.S. degree expected in Computer Software Engineering
     Kumoh National Institute of Technology
   </summary>
 </div>
