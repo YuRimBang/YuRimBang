@@ -35,6 +35,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 
+![OpenCV](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Tensorflow-E95420?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-F7DF1E?style=for-the-badge&logo=Keras&logoColor=white)
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?&style=for-the-badge&logo=Anaconda&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white)
@@ -50,9 +56,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?&style=for-the-badge&logo=mariaDB&logoColor=white)
-
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?&style=for-the-badge&logo=Anaconda&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white)
 
 ![AmazonAWS](https://img.shields.io/badge/amazonAWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?&style=for-the-badge&logo=flask&logoColor=white)
